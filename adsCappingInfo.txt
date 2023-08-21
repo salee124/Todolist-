@@ -1,0 +1,1 @@
+{"ATiN60YRgvgNK6SEhORnqfw2R1bJivNDETcN29RmweMvkSl26SwZ2Boaz1Ep2LEP0Bn51ki241-uzi_z71kxfVi2":"{encrypted_id:ATiN60YRgvgNK6SEhORnqfw2R1bJivNDETcN29RmweMvkSl26SwZ2Boaz1Ep2LEP0Bn51ki241-uzi_z71kxfVi2,period:86400,xout_period:2592000,cap:5,xout_occurrence_secs:0,max_capped_array_length:50,occurrences:[1692596486]}"}
